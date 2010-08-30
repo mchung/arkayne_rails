@@ -7,10 +7,10 @@ Copies the necessary files into your Rails project.
 Currently only supports rails-2
 
 == Usage
-rails generate arkayne_rails
+./script/server generate arkayne_rails
 
 == Example
-rails generate arkayne_rails
+./script/server generate arkayne_rails
 
 == Note on Patches/Pull Requests
  
